@@ -105,7 +105,7 @@ def iscollision(virusx, virusy, bulletx, bullety):
 # game loop
 running = True
 while running:
-
+    # privet
     # RGB
     screen.fill((0, 0, 0))
     # background image
